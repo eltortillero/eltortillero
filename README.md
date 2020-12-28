@@ -1,8 +1,8 @@
-### Hi there, I'm Horeb - aka <sparkyviruz11><shogundelqueso>
+# Hi there, I'm Horeb - aka <sparkyviruz11><shogundelqueso>
 
 ## I like software and i'm a developer.
 
-# 👨‍💻 Current projects
+## 👨‍💻 Current projects
 
 - Serial communication library for arduino (C library) <Open source, no published yet>
 - TotalPROMO web app <website><web app><angular>
@@ -12,7 +12,7 @@
 
 ## 💼 Where do i work?
 
-# i work for TotalPROMO <A marketing company in their development team>
+## i work for TotalPROMO <A marketing company in their development team>
 
 ## Frameworks and tools that i work with or i'm currently learning.
 
@@ -24,7 +24,7 @@
 - Illustrator <Graphic Design>
 - Photoshop <Graphic Design>
 
-# Hobbies
+## Hobbies
 
 - ⚽ Football <Soccer>
 - 🎸 Music <Drums><Guitar>
