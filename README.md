@@ -8,11 +8,7 @@
 - TotalPROMO web app <website><web app><angular>
 - Kudzu web app <website><web app><angular>
 
-## About me
-
-## 💼 Where do i work?
-
-## i work for TotalPROMO <A marketing company in their development team>
+# 🤠 About me
 
 ## Frameworks and tools that i work with or i'm currently learning.
 
