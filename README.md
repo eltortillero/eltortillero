@@ -4,9 +4,9 @@
 
 ## 👨‍💻 Current projects
 
-- Serial communication library for arduino (C library) Open source, no published yet
-- TotalPROMO web app website-web app-angular
-- Kudzu web app website-web app-angular
+> Serial communication library for arduino (C library) Open source, no published yet - C
+> TotalPROMO - Angular
+> Kudzu - Angular
 
 # 🤠 About me
 
@@ -22,6 +22,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCODEDOWN]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][FIREBASE]
 
+<br />
 
 ### The ones i'm learning
 
