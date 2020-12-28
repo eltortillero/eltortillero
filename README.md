@@ -12,7 +12,7 @@
 
 ## Frameworks and tools that i work with or i'm currently learning.
 
-- Angular /Angular2\/HTML\/CSS-SASS-SCSS\/TYPESCRIPT\
+- Angular /Angular2\/ ![alt text](https://cdn.worldvectorlogo.com/logos/html5.svg) \/CSS-SASS-SCSS\/TYPESCRIPT\
 - Firebase /NOSQL\/SERVERLESS\
 - Visual Studio Code /VSCODE\
 - Nest /Learning\/TYPESCRIPT\/EXPRESS\/NODE.JS\
