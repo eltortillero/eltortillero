@@ -20,7 +20,6 @@
 - Firebase <NOSQL><SERVERLESS>
 - Visual Studio Code <VSCODE>
 - Nest <Learning><TYPESCRIPT><EXPRESS><NODE.JS>
-- React <Learning><JSX><CSS>
 - Illustrator <Graphic Design>
 - Photoshop <Graphic Design>
 
