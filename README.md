@@ -4,9 +4,14 @@
 
 ## 👨‍💻 Current projects
 
-> Serial communication library for arduino (C library) Open source, no published yet - C
+> Serial communication library for arduino (C library) Open source, no published yet - C 
+<br />
+
 > TotalPROMO - Angular
+<br />
+
 > Kudzu - Angular
+<br />
 
 # 🤠 About me
 
@@ -29,7 +34,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png" />][NESTJS]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][REACT]
 
-
+<br />
 
 ## Hobbies
 
