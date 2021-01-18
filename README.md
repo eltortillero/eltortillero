@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Current projects
 
-> Serial communication library for arduino (C library) Open source, no published yet - C 
+> Serial communication library for arduino (C++ library) Open source, no published yet - C ++
 <br />
 
 > TotalPROMO - Angular
