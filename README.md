@@ -2,17 +2,6 @@
 
 ## I like software and i'm a developer.
 
-## 👨‍💻 Current projects
-
-> Serial communication library for arduino (C++ library) Open source, no published yet - C ++
-<br />
-
-> TotalPROMO - Angular
-<br />
-
-> Kudzu - Angular
-<br />
-
 # 🤠 About me
 
 ## Frameworks, tools and languages that i work with or i'm currently learning.
