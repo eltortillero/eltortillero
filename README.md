@@ -3,13 +3,6 @@
 ## Horeb Gastelum, Mechatronic Engineer and Software Developer 
  <img align="right" alt="Developer" width="300" src="animated_developer.gif"/> 
 
-### Currently working as fullstack developer at:
--  Quicktripp 
--  NovaCode
--  TotalPROMO
--  Artisan Studios
-  
-
 ### Tools, languages and frameworks that i work with on a daily basis.
 
 
